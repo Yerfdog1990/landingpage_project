@@ -123,3 +123,18 @@ article h4{
     font-size: 18px;
     color: #E5E7EB;
 }
+#btn2{
+    background: #3882F6;
+    padding: 10px 20px;
+    color: #E5E7EB;
+    font-size: 18px;
+    border-radius: 15px;
+    font-weight: bold;
+    border-color: #E5E7EB;;
+}
+footer{
+    padding: 20px;
+    font-size: 18px;
+    color: #E5E7EB;
+    text-align: center;
+}
